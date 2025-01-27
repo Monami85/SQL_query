@@ -9,3 +9,6 @@ Through this project, I aim to:
 •	Learn SQL techniques for answering complex business questions.
 •	Develop skills in creating visualizations to tell compelling data stories.
 •	Enhance communication of technical insights to both business managers and technical teams.
+
+Use this link to see the Tableau visualization: https://public.tableau.com/app/profile/monami.haldar/viz/Exercise3_10_DI_CF_MH/
+
