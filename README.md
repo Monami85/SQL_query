@@ -29,7 +29,7 @@ a.	SQL Queries : Scripts to address key business questions using Rockbuster's da
 b.	Visualizations : Charts and graphs to communicate findings clearly. <br />
 c.	Presentation : A professional summary of insights for Rockbuster's management board. <br />
 <br />
-Tools and Technologies
+Tools and Technologies <br />
 a.	PostgreSQL : For database management and SQL queries. <br />
 b.	SQL : To perform data analysis and generate insights. <br />
 c.	Data Visualization Tools : To create easy-to-understand charts and graphs. <br />
@@ -44,6 +44,8 @@ d.	Gain hands-on experience in SQL-based data analysis for real-world applicatio
 
 Tableau Public : Exercise 3.10_DI_CF_MH
 <br />
+<br />
 Use this link to see the Tableau visualization: https://public.tableau.com/app/profile/monami.haldar/viz/Exercise3_10_DI_CF_MH/
+<br />
 <br />
 Note: I refined the final layout, design, and language of the project with assistance from ChatGPT.
