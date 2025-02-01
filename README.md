@@ -48,10 +48,12 @@ b.	Develop skills in creating visualizations to tell compelling data stories. <b
 c.	Present findings effectively to both technical and non-technical audiences. <br />
 d.	Gain hands-on experience in SQL-based data analysis for real-world applications.<br />
 
-Tableau Public : Exercise 3.10_DI_CF_MH
-<br />
-<br />
-Use this link to see the Tableau visualization: https://public.tableau.com/app/profile/monami.haldar/viz/Exercise3_10_DI_CF_MH/
-<br />
-<br />
-Note: I refined the final layout, design, and language of the project with assistance from ChatGPT.
+<br />******************************************************************************************************************************************* <br />
+              Tableau Public : Exercise 3.10_DI_CF_MH
+              <br />
+              <br />
+              Use this link to see the Tableau visualization: https://public.tableau.com/app/profile/monami.haldar/viz/Exercise3_10_DI_CF_MH/
+              <br />
+              <br />
+              Note: I refined the final layout, design and language of the project with assistance from ChatGPT.
+<br />********************************************************************************************************************************************* <br />
