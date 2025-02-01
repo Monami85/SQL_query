@@ -10,7 +10,7 @@ Rockbuster Stealth LLC is a global movie rental company transitioning from physi
 <br />
 Objectives
 <br />
-The Rockbuster management team has outlined several key questions to guide the analysis :
+The Rockbuster management team has outlined several key questions to guide the analysis : <br />
 a.	Which movies contributed the most/least to revenue gain? <br />
 b.	What was the average rental duration for all videos? <br />
 c.	Which countries are Rockbuster customers based in? <br />
