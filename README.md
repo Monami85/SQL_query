@@ -3,8 +3,7 @@ This project is part of the Achievement 3 learning module, focused on developing
 Rockbuster Stealth LLC - SQL Data Analysis Project
 Overview
 Rockbuster Stealth LLC is a global movie rental company transitioning from physical stores to an online video rental service to stay competitive against streaming giants like Netflix and Amazon Prime. The company plans to leverage its existing movie licenses and launch a new platform. As part of the Business Intelligence (BI) department, I have been tasked with analyzing Rockbuster’s data to help shape its launch strategy.
-
-________________________________________ <br />
+<br />
 Objectives
 The Rockbuster management team has outlined several key questions to guide the analysis :
 a.	Which movies contributed the most/least to revenue gain? <br />
@@ -14,13 +13,12 @@ d.	Where are customers with a high lifetime value located? <br />
 e.	Do sales figures vary across geographic regions? <br />
 <br />
 The results of this analysis will assist Rockbuster in identifying opportunities to improve customer experience, optimize revenue and target high-value customers effectively. <br />
-________________________________________ <br />
+
 Data Set
 The Rockbuster data set includes information about : <br />
 a.	Film inventory <br />
 b.	Customer demographics and locations <br />
-c.	Payments and rental transactions
-________________________________________ <br />
+c.	Payments and rental transactions <br />
 The dataset is relational, with relationships defined between tables using primary and foreign keys. 
 <br />
 
@@ -30,7 +28,6 @@ The final deliverables include :   <br />
 a.	SQL Queries : Scripts to address key business questions using Rockbuster's data. <br />
 b.	Visualizations : Charts and graphs to communicate findings clearly. <br />
 c.	Presentation : A professional summary of insights for Rockbuster's management board. <br />
-________________________________________
 <br />
 Tools and Technologies
 a.	PostgreSQL : For database management and SQL queries. <br />
@@ -45,7 +42,7 @@ b.	Develop skills in creating visualizations to tell compelling data stories. <b
 c.	Present findings effectively to both technical and non-technical audiences. <br />
 d.	Gain hands-on experience in SQL-based data analysis for real-world applications.<br />
 
-Tableau Public : Exercise 3.10_DI_CF_MH________________________________________
+Tableau Public : Exercise 3.10_DI_CF_MH
 <br />
 Use this link to see the Tableau visualization: https://public.tableau.com/app/profile/monami.haldar/viz/Exercise3_10_DI_CF_MH/
 <br />
