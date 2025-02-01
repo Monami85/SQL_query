@@ -1,10 +1,14 @@
 This project is part of the Achievement 3 learning module, focused on developing SQL skills and solving real-world data problems.
 
 Rockbuster Stealth LLC - SQL Data Analysis Project
+<br />
 Overview
+<br />
 Rockbuster Stealth LLC is a global movie rental company transitioning from physical stores to an online video rental service to stay competitive against streaming giants like Netflix and Amazon Prime. The company plans to leverage its existing movie licenses and launch a new platform. As part of the Business Intelligence (BI) department, I have been tasked with analyzing Rockbuster’s data to help shape its launch strategy.
 <br />
+<br />
 Objectives
+<br />
 The Rockbuster management team has outlined several key questions to guide the analysis :
 a.	Which movies contributed the most/least to revenue gain? <br />
 b.	What was the average rental duration for all videos? <br />
@@ -29,6 +33,7 @@ a.	SQL Queries : Scripts to address key business questions using Rockbuster's da
 b.	Visualizations : Charts and graphs to communicate findings clearly. <br />
 c.	Presentation : A professional summary of insights for Rockbuster's management board. <br />
 <br />
+
 Tools and Technologies <br />
 a.	PostgreSQL : For database management and SQL queries. <br />
 b.	SQL : To perform data analysis and generate insights. <br />
@@ -36,7 +41,7 @@ c.	Data Visualization Tools : To create easy-to-understand charts and graphs. <b
 
 Learning Goals
 <br />
-Through this project, I aim to :
+Through this project, I aim to : <br />
 a.	Learn SQL techniques and write moderately complex SQL queries to extract meaningful insights. <br />
 b.	Develop skills in creating visualizations to tell compelling data stories. <br />
 c.	Present findings effectively to both technical and non-technical audiences. <br />
