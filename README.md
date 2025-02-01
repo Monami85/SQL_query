@@ -4,6 +4,7 @@ Rockbuster Stealth LLC - SQL Data Analysis Project
 <br />
 Overview
 <br />
+<br />
 Rockbuster Stealth LLC is a global movie rental company transitioning from physical stores to an online video rental service to stay competitive against streaming giants like Netflix and Amazon Prime. The company plans to leverage its existing movie licenses and launch a new platform. As part of the Business Intelligence (BI) department, I have been tasked with analyzing Rockbuster’s data to help shape its launch strategy.
 <br />
 <br />
