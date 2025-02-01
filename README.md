@@ -7,11 +7,11 @@ Rockbuster Stealth LLC is a global movie rental company transitioning from physi
 ________________________________________
 Objectives
 The Rockbuster management team has outlined several key questions to guide the analysis :
-a.	Which movies contributed the most/least to revenue gain?
-b.	What was the average rental duration for all videos?
-c.	Which countries are Rockbuster customers based in?
-d.	Where are customers with a high lifetime value located?
-e.	Do sales figures vary across geographic regions?
+a.	Which movies contributed the most/least to revenue gain? <br />
+b.	What was the average rental duration for all videos? <br />
+c.	Which countries are Rockbuster customers based in? <br />
+d.	Where are customers with a high lifetime value located? <br />
+e.	Do sales figures vary across geographic regions? <br />
 The results of this analysis will assist Rockbuster in identifying opportunities to improve customer experience, optimize revenue and target high-value customers effectively.
 ________________________________________
 Data Set
